@@ -1,0 +1,6 @@
+# Vim History/version tracking
+*.un~
+*.un
+*.swp
+*.swap
+
